@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OdevTasarim</string>
+    <string name="DiscoverYourFavoritePodcast">Favori podcastini kesfet</string>
+    <string name="music">Müzik</string>
+    <string name="philosophy">Felsefe</string>
+    <string name="religious">Din</string>
+    <string name="boxing">Boks</string>
+    <string name="AndrewTate">AndrewTate</string>
+    <string name="JoeRogan">Joe Rogan</string>
+    <string name="CrossoverTalk">Crossover</string>
+    <string name="ilberOrtayli">İlber Ortayli</string>
+    <string name="SiyasetToplum">Siyaset ve toplum</string>
+    <string name="EfeAydal">Sokak hayvanlari</string>
+    <string name="Yorekok">Kaliteli müzik</string>
+    <string name="trend">Trendler</string>
+    <string name="TopArtisy">En populer</string>
+    <string name="Efe">Efe Aydal</string>
+    <string name="yorekok">Yorekok</string>
+
+
+
+</resources>
